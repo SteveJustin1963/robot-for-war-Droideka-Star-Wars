@@ -1,4 +1,4 @@
-# tec-Droideka
+# Droideka
 
 ![image](https://github.com/user-attachments/assets/9fb9a163-e26e-42c5-acf5-b614e5f76958)
 
